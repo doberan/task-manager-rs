@@ -6,23 +6,26 @@ This tool is reading template file and replace template tag.
 
 ```bash
 $ ./task-manager
-sample
-
-
+title: sample
 ```
 
 # Features
 
+- [ ] implementation cli
+  - [ ] add help argument
+  - [ ] add replace argument
+- [ ] implementation tui
+- [ ] implementation input template file
 
 
 # Requirement
 
-* 
-* 
+* sedregex
 
 # Installation
 
 ```bash
+
 ```
 
 # Usage
